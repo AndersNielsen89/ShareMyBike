@@ -50,3 +50,6 @@ C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\ob
 C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\obj\Release\ShareMyBike.csproj.GenerateResource.Cache
 C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\obj\Release\ShareMyBike.dll
 C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\obj\Release\ShareMyBike.pdb
+C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\obj\Release\ShareMyBike.csprojResolveAssemblyReference.cache
+C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\obj\Release\ShareMyBike.Migrations.bike.resources
+C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\obj\Release\ShareMyBike.Migrations.size.resources

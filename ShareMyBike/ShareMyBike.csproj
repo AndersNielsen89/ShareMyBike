@@ -165,6 +165,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\BikeController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Filters\InitializeSimpleMembershipAttribute.cs" />
     <Compile Include="Global.asax.cs">
@@ -174,8 +175,21 @@
     <Compile Include="Migrations\201310091645425_initial.Designer.cs">
       <DependentUpon>201310091645425_initial.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201310281214141_bike.cs" />
+    <Compile Include="Migrations\201310281214141_bike.Designer.cs">
+      <DependentUpon>201310281214141_bike.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201310281216546_size.cs" />
+    <Compile Include="Migrations\201310281216546_size.Designer.cs">
+      <DependentUpon>201310281216546_size.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201310281240464_updatedBike.cs" />
+    <Compile Include="Migrations\201310281240464_updatedBike.Designer.cs">
+      <DependentUpon>201310281240464_updatedBike.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountModels.cs" />
+    <Compile Include="Models\BikeModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -292,6 +306,11 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Web.config" />
+    <Content Include="Views\Bike\Index.cshtml" />
+    <Content Include="Views\Bike\Details.cshtml" />
+    <Content Include="Views\Bike\Create.cshtml" />
+    <Content Include="Views\Bike\Edit.cshtml" />
+    <Content Include="Views\Bike\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -302,6 +321,15 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201310091645425_initial.resx">
       <DependentUpon>201310091645425_initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201310281214141_bike.resx">
+      <DependentUpon>201310281214141_bike.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201310281216546_size.resx">
+      <DependentUpon>201310281216546_size.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201310281240464_updatedBike.resx">
+      <DependentUpon>201310281240464_updatedBike.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -43,13 +43,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/20/2013 00:35:14</publishTime>
     </File>
     <File Include="bin/MySql.Data.Entity.dll">
-      <publishTime>10/09/2013 16:18:17</publishTime>
+      <publishTime>09/10/2013 16:18:17</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>09/16/2013 13:16:09</publishTime>
     </File>
     <File Include="bin/ShareMyBike.dll">
-      <publishTime>10/09/2013 18:54:34</publishTime>
+      <publishTime>10/09/2013 19:30:02</publishTime>
     </File>
     <File Include="bin/System.Net.Http.Formatting.dll">
       <publishTime>09/16/2013 13:16:11</publishTime>
@@ -301,7 +301,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/16/2013 13:16:01</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>10/09/2013 16:18:18</publishTime>
+      <publishTime>09/10/2013 16:18:18</publishTime>
     </File>
     <File Include="Scripts/jquery-1.7.1.js">
       <publishTime>09/16/2013 13:16:07</publishTime>
@@ -379,7 +379,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/16/2013 13:16:01</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>09/16/2013 15:12:52</publishTime>
+      <publishTime>10/09/2013 19:29:42</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
       <publishTime>09/16/2013 13:16:01</publishTime>
@@ -397,7 +397,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/16/2013 13:16:01</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>10/09/2013 18:54:35</publishTime>
+      <publishTime>09/10/2013 18:54:35</publishTime>
     </File>
   </ItemGroup>
 </Project>

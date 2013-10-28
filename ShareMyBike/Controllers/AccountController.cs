@@ -82,6 +82,7 @@ namespace ShareMyBike.Controllers
                 {
                     WebSecurity.CreateUserAndAccount(model.UserName, model.Password);
                     WebSecurity.Login(model.UserName, model.Password);
+                    UsersContext db = new UsersContext();             
                     return RedirectToAction("Index", "Home");
                 }
                 catch (MembershipCreateUserException e)

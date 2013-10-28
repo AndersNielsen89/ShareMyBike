@@ -16,6 +16,7 @@ namespace ShareMyBike.Models
         }
 
         public DbSet<UserProfile> UserProfiles { get; set; }
+        public DbSet<Bike> Bikes { get; set; }
     }
 
     [Table("UserProfile")]

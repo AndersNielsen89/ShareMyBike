@@ -46,8 +46,10 @@ C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\bi
 C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\bin\DotNetOpenAuth.OAuth.xml
 C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\bin\DotNetOpenAuth.OpenId.xml
 C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
-C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\obj\Debug\ShareMyBike.csprojResolveAssemblyReference.cache
+C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\obj\Debug\ShareMyBike.Migrations.initial.resources
+C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\obj\Debug\ShareMyBike.Migrations.bike.resources
+C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\obj\Debug\ShareMyBike.Migrations.size.resources
+C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\obj\Debug\ShareMyBike.csproj.GenerateResource.Cache
 C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\obj\Debug\ShareMyBike.dll
 C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\obj\Debug\ShareMyBike.pdb
-C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\obj\Debug\ShareMyBike.Migrations.initial.resources
-C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\obj\Debug\ShareMyBike.csproj.GenerateResource.Cache
+C:\Users\Anders\documents\visual studio 2012\Projects\ShareMyBike\ShareMyBike\obj\Debug\ShareMyBike.Migrations.updatedBike.resources
